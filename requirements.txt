@@ -1,0 +1,11 @@
+numpy
+matplotlib
+gen
+scipy
+tqdm
+librosa
+sounddevice
+soundfile
+scikit-learn
+hmmlearn
+seaborn
